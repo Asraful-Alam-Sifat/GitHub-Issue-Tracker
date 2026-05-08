@@ -1,8 +1,64 @@
-# Author:- Asraful Alam Sifat
+# GitHub Issues Tracker
 
-# Answering Question
-### 1. The defference between var, let and const || using var create Global scope variables on the other hand let and const makes Block Scope variables.
-### 2. The spread operator(...) unpack the elements like array or object into individual pieces. this is also used to copy element like array or object. using this we can pass an array as separate arguments to a function.
-### 3.  The map() method is used to transform each element || The filter() method is used to select a specific elements based on a condition. || The ForEach() method is used to run a loop like forOf or while loop, they all works same.
-### 4. The arrow ()=> is introduced in ES6 that allow us to write a function without return it and we can skip the function keyword, but only if the function is in one line. this is a shorter version of reguler function.
-### 5. The Template literals are also introduced in ES6. instead of using single(' ') or double(" ") string this use (` `) .the biggest advantage is the ability to insert variables or any condition directly into a string using ${}. and this supports multi-line string.
+A clean and responsive GitHub-style issue tracking web application built to manage and organize project issues efficiently. Users can view issues, filter them by status, search through issues, and manage project-related tasks through an intuitive interface.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Live Website: https://asraful-alam-sifat.github.io/Assignment-05/
+
+---
+
+## 📸 Preview
+
+### Login Page
+- Simple authentication UI
+- Demo credentials included
+- Clean and modern layout
+
+### Dashboard
+- Issue cards with labels and priorities
+- Open & Closed issue filtering
+- Search functionality
+- Responsive grid layout
+- GitHub-inspired design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive Design
+- Git & GitHub
+
+---
+
+## ✨ Features
+
+### 🔐 Authentication UI
+- Login page with demo credentials
+- Clean and user-friendly form design
+
+### 📋 Issue Management
+- Display issues in card layout
+- Different issue priorities (High, Medium, Low)
+- Labels like bug, enhancement, documentation, help wanted
+
+### 🔍 Search Functionality
+- Search issues instantly
+- Easy navigation through large issue lists
+
+### 🎯 Filtering System
+- Filter issues by:
+  - All
+  - Open
+  - Closed
+
+### 📱 Responsive Design
+- Fully responsive across:
+  - Desktop
+  - Mobile devices
+
