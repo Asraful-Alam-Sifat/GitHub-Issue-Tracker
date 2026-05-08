@@ -6,7 +6,7 @@ A clean and responsive GitHub-style issue tracking web application built to mana
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://asraful-alam-sifat.github.io/Assignment-05/
+🔗 Live Website: https://asraful-alam-sifat.github.io/GitHub-Issue-Tracker
 
 ---
 
